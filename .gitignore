@@ -11,6 +11,8 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.idea
+__pycache__
 
 # External tool builders
 .externalToolBuilders/
