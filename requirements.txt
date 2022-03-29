@@ -75,7 +75,7 @@ numpy==1.16.4
 opencv-python==4.1.2.30
 pandas==0.24.2
 pandocfilters==1.4.2
-paramiko==2.5.0
+paramiko==2.10.1
 parso==0.5.1
 pdfminer==20191125
 peppercorn==0.6
